@@ -1,4 +1,4 @@
-module github.com/cemkiy/echo-logrus
+module github.com/loyik/echo-logrus
 
 go 1.13
 
